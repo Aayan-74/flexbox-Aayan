@@ -1,0 +1,18 @@
+
+body {
+    padding: 20px;
+    border: 10px;
+    -webkit-box-sizing: border-box; /* For Safari and older versions of Chrome */
+  -moz-box-sizing: border-box;    /* For older versions of Firefox */
+  box-sizing: border-box;         /* Standard CSS3 property */
+    margin: 0;
+}
+nav {
+    background-color: #07575B;
+    height: 200px;
+    margin: 10px;
+    padding-top: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
